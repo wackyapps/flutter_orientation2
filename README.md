@@ -3,9 +3,10 @@
 A Flutter page showing how to adapt UI with orientation. Portrait and Landscape.
 
 
-Portrait
+Portrait Screenshot
 
-https://imgur.com/xO8PVht
+[Imgur](https://i.imgur.com/xO8PVht.png)
 
-https://imgur.com/Gpakjgq
+Landscape Screenshot
 
+[Imgur](https://i.imgur.com/Gpakjgq.png)
